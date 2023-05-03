@@ -87,7 +87,7 @@ public void R_repaint(){
             }
         });
         jPanel1.add(n1);
-        n1.setBounds(100, 30, 30, 22);
+        n1.setBounds(110, 30, 30, 22);
 
         n2.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -100,13 +100,13 @@ public void R_repaint(){
             }
         });
         jPanel1.add(n2);
-        n2.setBounds(100, 60, 30, 22);
+        n2.setBounds(110, 60, 30, 22);
 
-        jLabel1.setText("Digite el Nodo 1");
+        jLabel1.setText("Digite el Vertice 1");
         jPanel1.add(jLabel1);
         jLabel1.setBounds(10, 30, 110, 16);
 
-        jLabel2.setText("Digite el nodo 2");
+        jLabel2.setText("Digite el Verice 2");
         jPanel1.add(jLabel2);
         jLabel2.setBounds(10, 60, 100, 16);
 

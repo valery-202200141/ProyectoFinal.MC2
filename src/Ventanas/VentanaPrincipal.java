@@ -213,7 +213,7 @@ public static int ingresarNodoOrigen(String nodoOrige, String noExiste,int tope)
         jPanel1.setBounds(210, 10, 590, 480);
 
         jButton1.setBackground(new java.awt.Color(255, 204, 153));
-        jButton1.setText("Repain");
+        jButton1.setText("Re-Pintar");
         jButton1.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(255, 153, 51), 2));
         jButton1.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
